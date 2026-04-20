@@ -2,7 +2,7 @@
 Conception et Réalisation d’un Système Intelligent de Détection d’Incidents Dangereux Monté sur un Drone
 # Conception et Réalisation d’un Système Intelligent de Détection d’Incidents Dangereux Monté sur un Drone
 
-## 🎓 معلومات المشروع  Informations sur le projet
+## 🎓   Informations sur le projet
 
 <table dir="rtl">
   <tr>
@@ -35,9 +35,9 @@ Conception et Réalisation d’un Système Intelligent de Détection d’Inciden
   </tr>
 </table>
 
-## 📝 وصف المشروع | Description
+## 📝 | Description
 هذا المشروع هو عبارة عن نظام ذكي  مدمج  محمول على طائرة بدون طيار. يهدف النظام إلى الكشف التلقائي عن الحوادث الخطيرة مثل الحرائق وتسرب الغاز و الكوارث الطبيعية  باستخدمesp32camمع الحساسات .
 
-## 🛠 التقنيات المستخدمة | Technologies
-* العتاد: ESP32s3,arduno uno , ESP32-CAM, ,gps, sim900 ,Sensors (MQ2, DHT22, BMP180,capteur pulse , lcd , oled, led rouge et vert ,buzzer,niveau d'eau,flamme , servo moteur , capteur de pluie).
-* البرمجيات: Arduino IDE.
+## 🛠  | Technologies
+* Le matériel: ESP32s3,arduno uno , ESP32-CAM, ,gps, sim900 ,Sensors (MQ2, DHT22, BMP180,capteur pulse , lcd , oled, led rouge et vert ,buzzer,niveau d'eau,flamme , servo moteur , capteur de pluie).
+* logiciels: Arduino IDE.
