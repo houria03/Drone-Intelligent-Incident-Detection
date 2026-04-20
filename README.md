@@ -4,7 +4,7 @@ Conception et Réalisation d’un Système Intelligent de Détection d’Inciden
 
 ## 🎓   Informations sur le projet
 
-<table dir="rtl">
+<table rtl="dir">
   <tr>
     <td><b>Universite</b></td>
     <td>  Universite Mustapha Stambouli </td>
