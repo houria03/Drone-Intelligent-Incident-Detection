@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Drone Intelligent Incident Detection</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #0f172a;
+      color: white;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    h1, h2 {
+      color: #38bdf8;
+    }
+
+    .section {
+      background: #1e293b;
+      padding: 20px;
+      margin: 15px 0;
+      border-radius: 10px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    td {
+      padding: 10px;
+      border-bottom: 1px solid #334155;
+    }
+
+    ul {
+      line-height: 1.8;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="container">
+
+  <h1>🚁 Drone Intelligent Incident Detection System</h1>
+  <h2>Conception et Réalisation d’un Système Intelligent de Détection d’Incidents Dangereux Monté sur un Drone</h2>
+
+  <div class="section">
+    <h2>🎓 Informations sur le projet</h2>
+
+    <table>
+      <tr><td><b>Université</b></td><td>Université Mustapha Stambouli</td></tr>
+      <tr><td><b>Faculté</b></td><td>Faculté des sciences et de la technologie / électronique</td></tr>
+      <tr><td><b>Spécialité</b></td><td>Electronique de système embarqué - 2ème année Master</td></tr>
+      <tr><td><b>Étudiante</b></td><td>Merad Houria</td></tr>
+      <tr><td><b>Étudiante</b></td><td>Merad Rachida</td></tr>
+      <tr><td><b>Superviseur</b></td><td>Mourad Hebali</td></tr>
+      <tr><td><b>Année universitaire</b></td><td>2026 - 2027</td></tr>
+    </table>
+
+  </div>
+
+  <div class="section">
+    <h2>📝 Description</h2>
+    <p>
+      Ce projet est un système intelligent embarqué monté sur un drone.
+      Il permet la détection automatique des incidents dangereux tels que :
+    </p>
+
+    <ul>
+      <li>🔥 Incendies</li>
+      <li>💨 Fuites de gaz</li>
+      <li>🌊 Catastrophes naturelles</li>
+    </ul>
+
+    <p>
+      Le système utilise une caméra ESP32-CAM et plusieurs capteurs pour surveiller l’environnement en temps réel.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>🛠 Technologies utilisées</h2>
+
+    <h3>📦 Matériel</h3>
+    <ul>
+      <li>ESP32-S3</li>
+      <li>Arduino UNO</li>
+      <li>ESP32-CAM</li>
+      <li>GPS</li>
+      <li>SIM900</li>
+      <li>Capteurs (MQ2, DHT22, BMP180)</li>
+      <li>Capteur pulse</li>
+      <li>LCD & OLED</li>
+      <li>LED rouge et verte</li>
+      <li>Buzzer</li>
+      <li>Capteur niveau d’eau</li>
+      <li>Capteur flamme</li>
+      <li>Servo moteur</li>
+      <li>Capteur de pluie</li>
+    </ul>
+
+    <h3>💻 Logiciels</h3>
+    <ul>
+      <li>Arduino IDE</li>
+    </ul>
+
+  </div>
+
+</div>
+
+</body>
+</html>
